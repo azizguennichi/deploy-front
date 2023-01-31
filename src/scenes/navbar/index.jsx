@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Aziz Media
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
